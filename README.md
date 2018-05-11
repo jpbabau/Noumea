@@ -1,6 +1,6 @@
 # NOUMEA framework
 
-The NOUMEA framework allows to model [WPS](http://www.opengeospatial.org/standards/wps), to edit WPS workflows, to generate WPS Java code and to deploy WPS on [GeoServer](http://geoserver.org/).
+The NOUMEA framework allows to model [WPS](http://www.opengeospatial.org/standards/wps), to edit WPS workflows, to generate WPS Java code and to deploy WPS jar on [GeoServer](http://geoserver.org/).
 
 ## Getting Started
 
@@ -38,4 +38,4 @@ Yasmin Ait Maksene, Yanis Remila, Fatah M'Sili
 
 ## License
 
-This project is licensed under the GPL License - see the [LICENSE.txt](LICENSE.txt) file for details
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details
