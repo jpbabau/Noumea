@@ -1,17 +1,22 @@
 # NOUMEA framework
-The NOUMEA framework allows to model WPS (http://www.opengeospatial.org/standards/wps), to edit WPS workflows, to generate Java code and to deploy WPS on GeoServer.
+
+The NOUMEA framework allows to model [WPS](http://www.opengeospatial.org/standards/wps), to edit WPS workflows, to generate WPS Java code and to deploy WPS on [GeoServer](http://geoserver.org/).
 
 ## Getting Started
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See the user manual for more details on how to use the different tools.
 
 ### Prerequisites
+
 The NOUMEA framework is based on Eclipse Modeling tools, Neon Windows-32 bits version
 
 ### Installing
+
 Just download and unzip the eclipseWPS.zip file
 
 ### User Manual
 
+See the UserManual.pdf file
 
 ## Built With
 
@@ -23,9 +28,13 @@ Just download and unzip the eclipseWPS.zip file
 
 ## Authors
 
-* **Jean-Philippe Babau** - *Initial work* - [jpbabau](http://lab-sticc.univ-brest.fr/~babau/)
+* **Jean-Philippe Babau** - [web site](http://lab-sticc.univ-brest.fr/~babau/)
 
-See also the list of [contributors](https://github.com/jpbabau/Noumea/contributors) who participated in this project.
+Case Study provider
+Mathias Rouan (LETG)
+
+Master student participation 
+Yasmin Ait Maksene, Yanis Remila, Fatah M'Sili
 
 ## License
 
