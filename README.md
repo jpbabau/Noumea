@@ -30,11 +30,9 @@ See the UserManual.pdf file
 
 * **Jean-Philippe Babau** - [web site](http://lab-sticc.univ-brest.fr/~babau/)
 
-Case Study provider
-Mathias Rouan (LETG)
+Case Study provider : Mathias Rouan (LETG)
 
-Master student participation 
-Yasmin Ait Maksene, Yanis Remila, Fatah M'Sili
+Master student participation : Yasmin Ait Maksene, Yanis Remila, Fatah M'Sili
 
 ## License
 
