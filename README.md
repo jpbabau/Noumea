@@ -4,15 +4,15 @@ The NOUMEA framework is a research prototype to model [WPS](http://www.opengeosp
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See the user manual for more details on how to use the different tools.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See the Intallation Guide and the User Manual for more details on how to use the different tools.
 
 ### Prerequisites
 
-The NOUMEA framework is based on Eclipse Modeling tools, Neon Windows-32 bits version
+The NOUMEA framework is based on Eclipse Modeling tools, Neon Windows-32 bit version
 
 ### Installing
 
-Just download and unzip the eclipseWPS.zip file
+See the InstallationGuide.pdf file 
 
 ### User Manual
 
